@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**Bruno-Neves-21/Bruno-Neves-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Habilidades
+![My Skills](https://skillicons.dev/icons?i=py,mysql)
 
-Here are some ideas to get you started:
+### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Neves-21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-Neves-21&&repo=Bruno-Neves-21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 
+
